@@ -1,13 +1,4 @@
 7146
-124C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\conditional-except.d.ts133698212741467503 0
-109C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-hierarchy\package.json133698214130736677 0
-106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\is-arrayish\.npmignore133698212726315723 0
-104C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\json5\dist\index.mjs133698212749591513 0
-116C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\lib\generator\create.js133698212800092228 0
-106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\cjs\generator133698212791196283 1
-132C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\css-color-function.js133698212799421383 0
-86C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\dist\index.html133698216244064064 0
-130C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133698212727454369 0
 101C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\.bin\json2dsv.cmd133698214137667052 0
 125C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\node_modules\mdn-data\css\units.json133698212761827223 0
 135C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133698212769607434 0
@@ -37,14 +28,14 @@
 113C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\msgpackr-extract\package.json133698212738746247 0
 112C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\cache\lib\types.d.ts133698212751618907 0
 119C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\transformer-babel\README.md133698212755155923 0
-75C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\dist133698216244104084 1
+75C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\dist133698230697442854 1
 111C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-shape\src\offset\none.js133698214131248963 0
 102C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\iconv-lite\.github133698214130325784 1
 100C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\msgpackr\LICENSE133698212722762584 0
 123C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\wake-lock.js133698212839071455 0
 118C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\partial-deep.d.ts133698212756783321 0
 156C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\import.js133698212776315886 0
-81C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\index.html133698216096714412 0
+81C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\index.html133698229636156611 0
 123C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\node_modules\css-tree\dist\data.js133698212801978145 0
 166C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133698212742439481 0
 95C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-delaunay133698214128101032 1
@@ -74,7 +65,7 @@
 115C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-scale-chromatic\package.json133698214131826748 0
 88C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@swc133698214137867780 1
 140C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\node_modules\css-tree\lib\syntax\node\Percentage.js133698212807176574 0
-80C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\README.md133698211535770501 0
+80C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\README.md133698216554285082 0
 93C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lmdb\util133698212799291253 1
 112C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\svgo\plugins\inlineStyles.js133698212776940771 0
 136C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-select\node_modules\entities\lib\decode.d.ts.map133698212761086579 0
@@ -100,6 +91,7 @@
 129C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-geo\src\projection\cylindricalEqualArea.js133698214129327619 0
 115C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\reporter-dev-server\src133698212760294845 1
 102C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\.package-lock.json133698214142118567 0
+123C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\gyroscope.js133698212818797049 0
 108C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-time-format\README.md133698214131089259 0
 145C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js133698212746668236 0
 151C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeXMLNS.js133698212777026036 0
@@ -238,6 +230,10 @@
 132C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\css-matches-pseudo.js133698212803706627 0
 111C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\workers\src\threads133698212764787973 1
 89C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\clone133698212737685790 1
+102C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-scale-chromatic133698214131877493 1
+106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\nth-check\package.json133698212740907566 0
+126C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\require-at-least-one.d.ts133698212759572235 0
+110C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\ordered-binary\.nyc_output133698212742827227 1
 102C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-what\readme.md133698212752060343 0
 101C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\picomatch\LICENSE133698212708858996 0
 121C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@swc\helpers\cjs\_async_generator.cjs133698212801267788 0
@@ -383,10 +379,6 @@
 110C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\dotenv-expand\package.json133698212722787744 0
 91C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-path133698214125603181 1
 95C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-quadtree133698214128357683 1
-102C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-scale-chromatic133698214131877493 1
-106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\nth-check\package.json133698212740907566 0
-126C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\require-at-least-one.d.ts133698212759572235 0
-110C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\ordered-binary\.nyc_output133698212742827227 1
 112C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\posthtml-render\package.json133698212729220409 0
 131C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@swc\helpers\esm\_class_private_field_update.js133698212810917656 0
 117C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-array\src\threshold\sturges.js133698214131943255 0
@@ -1047,6 +1039,10 @@
 140C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\node_modules\css-tree\lib\syntax\node\Combinator.js133698212799606220 0
 130C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.js133698212750799909 0
 114C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\asyncify.d.ts133698212734421103 0
+124C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\conditional-except.d.ts133698212741467503 0
+109C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-hierarchy\package.json133698214130736677 0
+106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\is-arrayish\.npmignore133698212726315723 0
+104C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\json5\dist\index.mjs133698212749591513 0
 147C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\package.json133698212749118001 0
 122C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\type-fest\source\conditional-keys.d.ts133698212742767202 0
 121C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\robust-predicates\umd\orient2d.min.js133698214126672881 0
@@ -2356,6 +2352,9 @@
 159C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\media.js133698212786415728 0
 107C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\iconv-lite\lib\index.js133698214125267488 0
 105C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lmdb\rollup.config.js133698212799235556 0
+161C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\slotted.js133698212792825397 0
+106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lightningcss\README.md133698212750945583 0
+118C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\lib\parser\SyntaxError.js133698212808441092 0
 118C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-css\package.json133698212735605965 0
 100C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lmdb\SECURITY.md133698212800424614 0
 120C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\cjs\generator\sourceMap.cjs133698212789947896 0
@@ -2533,9 +2532,6 @@
 121C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lightningcss-win32-x64-msvc\README.md133698212733232372 0
 113C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\iconv-lite\encodings\utf16.js133698214126960324 0
 101C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lightningcss\node133698212756799027 1
-161C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\slotted.js133698212792825397 0
-106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lightningcss\README.md133698212750945583 0
-118C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\lib\parser\SyntaxError.js133698212808441092 0
 121C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\utils\test\objectHash.test.js133698212776088974 0
 110C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\lightningcss\node\ast.d.ts133698212755251235 0
 114C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\d3-selection\src\namespaces.js133698214129940007 0
@@ -4420,6 +4416,11 @@
 98C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\cjs\clean133698212767078635 1
 105C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\cjs\compress.cjs133698212751040782 0
 104C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\cjs\version.cjs133698212766353099 0
+116C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\lib\generator\create.js133698212800092228 0
+106C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\css-tree\cjs\generator133698212791196283 1
+132C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\css-color-function.js133698212799421383 0
+86C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\dist\index.html133698230697452863 0
+130C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133698212727454369 0
 141C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@swc\helpers\cjs\_create_for_of_iterator_helper_loose.cjs133698212803972776 0
 125C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\csso\cjs\restructure\3-disjoinRuleset.cjs133698212729954004 0
 129C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\css-containment.js133698212799976771 0
@@ -5285,7 +5286,6 @@
 119C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\forms.js133698212816728016 0
 135C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\getboundingclientrect.js133698212817633210 0
 136C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\getelementsbyclassname.js133698212817755859 0
-123C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\gyroscope.js133698212818797049 0
 124C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\caniuse-lite\data\features\hashchange.js133698212818898250 0
 122C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@observablehq\plot\src\marks\waffle.js133698214135129199 0
 157C:\Users\compt\Documents\GitHub\r312-tp1-2-plot-par-parceljs-AAmrouche\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Dimension.js133698212770144514 0
